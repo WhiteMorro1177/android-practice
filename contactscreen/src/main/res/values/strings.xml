@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactScreen</string>
+    <string name="name_info">Name:</string>
+    <string name="name">Hanzo</string>
+    <string name="org_info">Organization:</string>
+    <string name="org">Kyudojo</string>
+    <string name="number">+81 12345 12345 (Mobile)</string>
+</resources>
