@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ButtonClicker</string>
+    <string name="who_am_i_btn_text">Who am I?</string>
+    <string name="it_s_not_me_btn_text">It\'s not me</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
