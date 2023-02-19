@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/contactscreen" />
             <option value="$PROJECT_DIR$/layouttypes" />
+            <option value="$PROJECT_DIR$/orientationchanges" />
           </set>
         </option>
       </GradleProjectSettings>
